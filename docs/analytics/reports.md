@@ -1,6 +1,6 @@
 # Reports
 
-Frappe Books has 4 financial reports. Each report is calculated using the
+OdinPOS has 4 financial reports. Each report is calculated using the
 General Ledger Entries that are created when any
 [Transactional Entry](/transactions/transactional-entries) is made.
 

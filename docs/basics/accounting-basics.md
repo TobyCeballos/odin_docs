@@ -115,7 +115,7 @@ Expense Account by ₹50,000.
 As you might have noticed, every transaction we do in our business affects two
 accounts. This is the basis of double-entry bookkeeping system.
 
-You can test this out by creating a **Sales Invoice** in Frappe Books, and then
+You can test this out by creating a **Sales Invoice** in OdinPOS, and then
 check the **General Ledger Report** to see which accounts were affected.
 
 ## Credit and Debit

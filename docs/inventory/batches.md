@@ -1,6 +1,6 @@
 # Batches
 
-Inventory in Frappe Books can be maintained on the basis of Batches. Here a
+Inventory in OdinPOS can be maintained on the basis of Batches. Here a
 Batch of some Item is a uniquely grouped collection of those Items.
 
 ## Enable Batches

@@ -1,13 +1,13 @@
 # Introduction
 
-Welcome to the Frappe Books User Guide. This guide will teach you how to look
-after your accounting in Frappe Books. We will go through the basics that’ll
+Welcome to the OdinPOS User Guide. This guide will teach you how to look
+after your accounting in OdinPOS. We will go through the basics that’ll
 equip you to use the product. However, knowing the basics of accounting is
 recommended.
 
 ## Basics and Setup
 
-Learn the basics of accounting and get started with Frappe Books.
+Learn the basics of accounting and get started with OdinPOS.
 
 ### [Accounting Basics](/basics/accounting-basics)
 
@@ -15,11 +15,11 @@ A small primer to get you up to speed on the concepts of accounting.
 
 ### [Getting Started](/setting-up/getting-started)
 
-Learn how to configure Frappe Books for your company to get started.
+Learn how to configure OdinPOS for your company to get started.
 
 ## Transactions
 
-Learn about the various transactions that you can do in Frappe Books.
+Learn about the various transactions that you can do in OdinPOS.
 
 ### [Sales Invoices](/transactions/sales-invoices)
 
@@ -35,7 +35,7 @@ Use journal entries to record transactions that can't be categorized as a sale o
 
 ## Analytics and Reports
 
-Learn about the available analytics and reports in Frappe Books
+Learn about the available analytics and reports in OdinPOS
 
 ### [Dashboard](/analytics/dashboard)
 

@@ -1,9 +1,9 @@
 # Transactional Entries
 
-In Frappe Books transactions are a special type of entry. These are entries that
+In OdinPOS transactions are a special type of entry. These are entries that
 change an Accounts balance.
 
-The following are transactional entries in Frappe Books
+The following are transactional entries in OdinPOS
 
 - Sales Invoice
 - Purchase Invoice
@@ -131,5 +131,5 @@ an entry before you go ahead with it.
 
 ---
 
-Now that you are well versed with Transactional Entries in Frappe Books, you can
+Now that you are well versed with Transactional Entries in OdinPOS, you can
 move on to learning about the individual types of Transactional Entries.

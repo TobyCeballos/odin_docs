@@ -1,6 +1,6 @@
 # Discount Accounting
 
-Discount is a deduction that is applied to the cost of an item. Frappe Books
+Discount is a deduction that is applied to the cost of an item. OdinPOS
 supports applying discount to an invoice on an item-wise basis.
 
 ## Enable Discount Accounting
@@ -42,7 +42,7 @@ To set the Discount Amount click on Set Discount Amount. Once the Discount
 Amount or Percent is set the Discounted Amount will be shown.
 
 ::: tip Setting Discounted Amount
-You can directly set the Discounted Amount, Frappe Books will automatically
+You can directly set the Discounted Amount, OdinPOS will automatically
 calculate the item rate. 
 :::
 

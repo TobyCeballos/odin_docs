@@ -3,7 +3,7 @@
 A Balance Sheet is the financial statement of a company which states assets,
 liabilities and equity at a particular point in time.
 
-In Frappe Books, you can view the balance sheet for your accounts based on
+In OdinPOS, you can view the balance sheet for your accounts based on
 monthly, quarterly, half-yearly, and yearly periods.
 
 Navigate to this report from the sidebar: `Reports > Balance Sheet`

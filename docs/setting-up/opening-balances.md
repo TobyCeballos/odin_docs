@@ -1,6 +1,6 @@
 # Setup Opening Balances
 
-If you are moving from an existing accounting system over to Frappe Books, you
+If you are moving from an existing accounting system over to OdinPOS, you
 will need to enter the account balances from your previous system.
 
 To set the Opening Balances you can follow the steps below.
@@ -12,7 +12,7 @@ Trial Balances report.
 
 ## Add Additional Accounts
 
-Add any accounts from your previous system that do not exist in Frappe Books by
+Add any accounts from your previous system that do not exist in OdinPOS by
 navigating to the Chart of Accounts.
 
 You can follow the steps shown

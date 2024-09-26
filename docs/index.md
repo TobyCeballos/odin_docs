@@ -1,33 +1,33 @@
 ---
 layout: home
-title: Frappe Books
+title: OdinPOS
 hero:
-  name: Frappe Books
+  name: OdinPOS
   text: Documentation And User Guide
-  tagline: 'Welcome to the Frappe Books Documentation and User Guide.
+  tagline: 'Welcome to the OdinPOS Documentation and User Guide.
     Learn how to create entries, make transactions, read reports, and more!'
   actions:
     - theme: brand
       text: Get Started
       link: /setting-up/getting-started
     - theme: alt
-      text: Get Frappe Books
+      text: Get OdinPOS
       link: https://frappebooks.com/download
 
 features:
   - title: Portable
-    details: Frappe Books uses the lightweight SQLite database which uses a single file to store it's data.
+    details: OdinPOS uses the lightweight SQLite database which uses a single file to store it's data.
   - title: Works Offline
-    details: Frappe Books uses a local file from your computer and saves all transactions and entries to this file.
+    details: OdinPOS uses a local file from your computer and saves all transactions and entries to this file.
   - title: Financial Reports
-    details: Frappe Books comes with standard financial reports like Profit and Loss, Trial Balance and Balance Sheet.
+    details: OdinPOS comes with standard financial reports like Profit and Loss, Trial Balance and Balance Sheet.
   - title: Invoice Templates
     details: Beautiful Invoice templates that you can further customize with the color and logo of your brand.
 ---
 
 <style>
 :root {
-  /* Frappe Books CSS Color Variables */
+  /* OdinPOS CSS Color Variables */
   --gray-25: #FCFCFD;
   --gray-50: #F8F9FC;
   --gray-100: #F2F4F8;

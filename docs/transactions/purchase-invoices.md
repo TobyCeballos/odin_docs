@@ -7,7 +7,7 @@ It is a transactional entry that denotes a purchase.
 
 ## Creating Purchase Invoices
 
-If you have set up your Frappe Books with Accounts, Taxes, Purchase Items, and
+If you have set up your OdinPOS with Accounts, Taxes, Purchase Items, and
 Suppliers, creating a Purchase Invoice is as simple as it gets.
 
 First navigate to the Purchase Invoices page
@@ -23,7 +23,7 @@ Then click on the blue `+` button to open the Purchase Invoice form.
    fetched you can change it if required.
 3. Enter the Quantity.
 4. You can add more items or if you are done, click on Save.
-5. Once finalized, click on Submit. Frappe Books will do the required ledger
+5. Once finalized, click on Submit. OdinPOS will do the required ledger
    entries against the appropriate accounts.
 
 This invoice is now in _“Submitted”_ state, it cannot be edited. The purchase
@@ -47,7 +47,7 @@ auto-filled.
 You can change the values and click on Save. This will Save and Submit the
 Payment.
 
-On making the Payment, Frappe Books will make the necessary ledger entries to
+On making the Payment, OdinPOS will make the necessary ledger entries to
 increase the payment amount in Accounts Payable and decrease the amount in your
 Bank or Cash Account.
 

@@ -38,7 +38,7 @@ use. First navigate to the **Taxes** page.
    different Items or a class of Items.
 3. **Click on Save**
 
-For more information on Taxes in Frappe Books click [here](/entries/taxes).
+For more information on Taxes in OdinPOS click [here](/entries/taxes).
 
 ## Add Sales Items
 
@@ -60,7 +60,7 @@ Expense accounts.
 
 You can even set an image for the item.
 
-For more information on Sales Items in Frappe Books click [here](/entries/items).
+For more information on Sales Items in OdinPOS click [here](/entries/items).
 
 ## Add Customers
 
@@ -76,7 +76,7 @@ Add your Customers to record their details and select them in Sales Invoices. Fi
 You can enter additional details such as Email and Phone in the Customer entry.
 This will be shown when creating a Sales Invoice PDF.
 
-For more information on Customers in Frappe Books click [here](/entries/party).
+For more information on Customers in OdinPOS click [here](/entries/party).
 
 ---
 

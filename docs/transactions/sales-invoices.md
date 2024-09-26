@@ -7,7 +7,7 @@ It is a transactional entry that denotes a sale.
 
 ## Creating Sales Invoices
 
-If you have set up your Frappe Books with Accounts, Taxes, Sales Items, and
+If you have set up your OdinPOS with Accounts, Taxes, Sales Items, and
 Customers, creating a Sales Invoice is as simple as it gets. If not you can the
 follow the steps [here](/setting-up/getting-started).
 
@@ -24,7 +24,7 @@ Then click on the blue `+` button to open the Sales Invoice form.
    you can change it if required.
 3. Enter the Quantity.
 4. You can add more items or if you are done, click on Save.
-5. Once finalized, click on Submit. Frappe Books will do the required ledger
+5. Once finalized, click on Submit. OdinPOS will do the required ledger
    entries against the appropriate accounts.
 
 This invoice is now in _“Submitted”_ state, it cannot be edited. The sales
@@ -39,7 +39,7 @@ From here you can change the item description, HSN code check the Taxed Amount,
 etc.
 
 ::: tip Setting the Taxed Amount
-You can directly set the Taxed Amount, Frappe Books will calculate the Rate of
+You can directly set the Taxed Amount, OdinPOS will calculate the Rate of
 the Item automatically.
 :::
 
@@ -61,7 +61,7 @@ auto-filled.
 You can change the values and click on Save. This will Save and Submit the
 Payment.
 
-On making the Payment, Frappe Books will make the necessary ledger entries to
+On making the Payment, OdinPOS will make the necessary ledger entries to
 reduce the payment amount from Accounts Receivable and increase the amount in
 your Bank or Cash Account.
 

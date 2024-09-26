@@ -11,6 +11,6 @@ echo 'docs.frappe.io' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:frappe/books_docs.git main:gh-pages
+git push -f git@github.com:TobyCeballos/odin_docs.git main:gh-pages
 
 cd -

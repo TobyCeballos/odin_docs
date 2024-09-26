@@ -1,9 +1,9 @@
 {
-  "name": "books_docs",
+  "name": "odin_docs",
   "version": "0.1.0",
-  "description": "Frappe Books documentation.",
+  "description": "OdinPOS documentation.",
   "main": "index.js",
-  "author": "18alantom <2.alan.tom@gmail.com>",
+  "author": "Toby Ceballos <tobyceballos44@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {

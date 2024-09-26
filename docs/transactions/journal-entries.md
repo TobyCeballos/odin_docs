@@ -24,7 +24,7 @@ When making a Journal Entry, you must ensure that the total amount in the Debit
 column should equal the total amount in the Credit column.
 :::
 
-After clicking Submit, Frappe Books will the make ledger entries and update the
+After clicking Submit, OdinPOS will the make ledger entries and update the
 account balances.
 
 You can check the entries by clicking Ledger Entries under the `...` menu.
